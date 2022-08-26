@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/docusaurus.claps.teste/blog</id>
-    <title>Claps Doc Blog</title>
+    <title>Claps Api Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/docusaurus.claps.teste/blog"/>
-    <subtitle>Claps Doc Blog</subtitle>
+    <subtitle>Claps Api Blog</subtitle>
     <icon>https://github.com/docusaurus.claps.teste/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
