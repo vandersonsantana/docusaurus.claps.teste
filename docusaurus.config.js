@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Claps Doc',
+  title: 'Claps Api',
   tagline: 'Descrição dos nossos serviços',
   url: 'https://github.com',
   baseUrl: '/docusaurus.claps.teste/',
@@ -69,7 +69,7 @@ const config = {
       navbar: {
         title: 'Home',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Claps logo',
           src: 'img/logotipo-claps.svg',
         },
         items: [
@@ -77,12 +77,12 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Manual',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/api', label: 'Api', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            href: 'https://www.claps.com.br/',
+            label: 'Site oficial',
             position: 'right',
           },
         ],
@@ -100,37 +100,25 @@ const config = {
             ],
           },
           {
-            title: 'Community',
+            title: 'Claps',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
+                label: 'Claps Site',
+                href: 'https://www.claps.com.br/',
+              }
             ],
           },
           {
-            title: 'More',
+            title: 'Mais',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
+                label: 'Claps Site',
+                href: 'https://www.claps.com.br/',
+              }
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright ${new Date().getFullYear()}, Produto ma9, Todos os direitos reservados`,
       },
       prism: {
         theme: lightCodeTheme,

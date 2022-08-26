@@ -2,54 +2,8 @@
 sidebar_position: 2
 ---
 
-# Create a Document
+# Segurança
 
-Documents are **groups of pages** connected through:
+Tudo sobre segurança:
 
-- a **sidebar**
-- **previous/next navigation**
-- **versioning**
-
-## Create your first Doc
-
-Create a Markdown file at `docs/hello.md`:
-
-```md title="docs/hello.md"
-# Hello
-
-This is my **first Docusaurus document**!
-```
-
-A new document is now available at [http://localhost:3000/docs/hello](http://localhost:3000/docs/hello).
-
-## Configure the Sidebar
-
-Docusaurus automatically **creates a sidebar** from the `docs` folder.
-
-Add metadata to customize the sidebar label and position:
-
-```md title="docs/hello.md" {1-4}
----
-sidebar_label: 'Hi!'
-sidebar_position: 3
----
-
-# Hello
-
-This is my **first Docusaurus document**!
-```
-
-It is also possible to create your sidebar explicitly in `sidebars.js`:
-
-```js title="sidebars.js"
-module.exports = {
-  tutorialSidebar: [
-    {
-      type: 'category',
-      label: 'Tutorial',
-      // highlight-next-line
-      items: ['hello'],
-    },
-  ],
-};
-```
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Auctor neque vitae tempus quam pellentesque nec nam aliquam sem. Id diam vel quam elementum pulvinar etiam non quam. Commodo nulla facilisi nullam vehicula. Aliquam ultrices sagittis orci a scelerisque. Blandit libero volutpat sed cras ornare arcu dui vivamus arcu. Euismod nisi porta lorem mollis. Sed risus pretium quam vulputate dignissim suspendisse in est. Sapien nec sagittis aliquam malesuada bibendum arcu vitae elementum curabitur. Nulla posuere sollicitudin aliquam ultrices sagittis orci. Hac habitasse platea dictumst vestibulum. Nibh tellus molestie nunc non blandit massa enim. Nec feugiat nisl pretium fusce id velit ut tortor pretium. Velit aliquet sagittis id consectetur. Fringilla ut morbi tincidunt augue. Mauris sit amet massa vitae. Fermentum posuere urna nec tincidunt praesent.

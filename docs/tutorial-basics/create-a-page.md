@@ -2,42 +2,8 @@
 sidebar_position: 1
 ---
 
-# Create a Page
+# Seguros
 
-Add **Markdown or React** files to `src/pages` to create a **standalone page**:
+Tudo sobre seguros:
 
-- `src/pages/index.js` → `localhost:3000/`
-- `src/pages/foo.md` → `localhost:3000/foo`
-- `src/pages/foo/bar.js` → `localhost:3000/foo/bar`
-
-## Create your first React Page
-
-Create a file at `src/pages/my-react-page.js`:
-
-```jsx title="src/pages/my-react-page.js"
-import React from 'react';
-import Layout from '@theme/Layout';
-
-export default function MyReactPage() {
-  return (
-    <Layout>
-      <h1>My React page</h1>
-      <p>This is a React page</p>
-    </Layout>
-  );
-}
-```
-
-A new page is now available at [http://localhost:3000/my-react-page](http://localhost:3000/my-react-page).
-
-## Create your first Markdown Page
-
-Create a file at `src/pages/my-markdown-page.md`:
-
-```mdx title="src/pages/my-markdown-page.md"
-# My Markdown page
-
-This is a Markdown page
-```
-
-A new page is now available at [http://localhost:3000/my-markdown-page](http://localhost:3000/my-markdown-page).
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Auctor neque vitae tempus quam pellentesque nec nam aliquam sem. Id diam vel quam elementum pulvinar etiam non quam. Commodo nulla facilisi nullam vehicula. Aliquam ultrices sagittis orci a scelerisque. Blandit libero volutpat sed cras ornare arcu dui vivamus arcu. Euismod nisi porta lorem mollis. Sed risus pretium quam vulputate dignissim suspendisse in est. Sapien nec sagittis aliquam malesuada bibendum arcu vitae elementum curabitur. Nulla posuere sollicitudin aliquam ultrices sagittis orci. Hac habitasse platea dictumst vestibulum. Nibh tellus molestie nunc non blandit massa enim. Nec feugiat nisl pretium fusce id velit ut tortor pretium. Velit aliquet sagittis id consectetur. Fringilla ut morbi tincidunt augue. Mauris sit amet massa vitae. Fermentum posuere urna nec tincidunt praesent.
