@@ -76,7 +76,7 @@ info:
     }
     ~~~~
 
-    # Filtros de consulta
+    # Filtros de consulta   
 
     As rotas que retonam listas de elementos e permitem filtragem utilizam o padrão **LHS Brackets**. Segue tabela de notação.
 
