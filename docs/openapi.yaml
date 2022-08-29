@@ -4,7 +4,7 @@ info:
   title: Claps api
   termsOfService: "https://claps.com.br/"
   contact:
-    name: Claps API Suporte
+    name: Claps API Suporte 
     email: desenvolvimento@claps.com.br
   x-logo:
     url: "https://sandbox.claps.tec.br/assets/images/logotipo-claps.svg"
