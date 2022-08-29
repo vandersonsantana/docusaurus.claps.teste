@@ -18,7 +18,7 @@ info:
       "message": "403 - Sem permissão"
     }
     ~~~~
-    <!-- ReDoc-Inject: <security-definitions> -->
+    <!-- ReDoc-Inject: <security-definitions> -->  
 
     # Header
     As requisições necessitam do envio dos parâmetros abaixo no header.
